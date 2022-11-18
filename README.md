@@ -1,13 +1,16 @@
 
-**AI-powered Nutrition Analyzer for Fitness Enthusiasts**
+***AI-powered Nutrition Analyzer for Fitness Enthusiasts***
 
 ***Team ID : PNT2022TMID23315***
 
 Team Size : 4
 
 Team Leader : Harish
+
 Team member : Janakiraman
+
 Team member : Anbarasu
+
 Team member : Logeshwaran
 
 
