@@ -1,5 +1,7 @@
 DEMO Video Youtube link : https://youtu.be/wYnc33Mjd4o
 
+Explanatory video : https://drive.google.com/drive/folders/1UHga5pcQ21JmJvXFppjWlGUZSsJhDEWC?usp=share_link
+
 ***AI-powered Nutrition Analyzer for Fitness Enthusiasts***
 
 ***Team ID : PNT2022TMID23315***
